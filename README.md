@@ -3,7 +3,9 @@ This career Prediction System is written in prolog. It asks user for certain inp
 
 # sample input
 <img src="/sample.png" alt="Koa middleware framework for nodejs"/>
-# Requirements 
+
+# Requirements :-
+
 You need to have swi-prolog in your system.
 
 # How to run :-
